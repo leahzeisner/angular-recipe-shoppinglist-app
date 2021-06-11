@@ -50,3 +50,12 @@ Thumbs.db
 .firebaserc
 firebase.json
 .github
+
+
+.browserslistrc
+.editorconfig
+angular.json
+karma.conf.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
