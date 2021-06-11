@@ -1,3 +1,5 @@
+URL = https://recipe-shoppinglist-app.web.app/recipes
+
 # RecipeShoppinglistApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
